@@ -1,4 +1,4 @@
-# Hotel-Analysis
+# Hotel Tembo Analysis
 A short project on hotel data answering business steering questions 
 
 # Project Overview and analysis
